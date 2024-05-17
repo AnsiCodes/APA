@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.names{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.Copyright{
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#MyHeader{
+    text-align:center;
+}
